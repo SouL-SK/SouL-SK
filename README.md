@@ -8,7 +8,7 @@
 ### Who Am I
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shuai1593">
 
-- 🌱 I’m currently learning `Java`, `Spring`, `Network Server`
+- 🌱 I’m currently learning `Java`, `Spring`, `Network Server`, `Oracle Datebase`
 - 🥇 I majored in Computer Engineering and Software Engineering
 - 🚅 My hometown is Seoul, in Korea
 - :airplane: I lived in China, Qing Dao (2014 ~ 2017)
