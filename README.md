@@ -25,3 +25,4 @@
 - :book: book
 - :walking: walk
 - :gift: shopping
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOLokill&layout=compact&title_color=white)
