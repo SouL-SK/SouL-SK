@@ -19,6 +19,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOLokill&layout=compact&title_color=white">
+<br>
 ### What I Like
 
 - :video_game: game
