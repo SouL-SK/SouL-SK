@@ -18,7 +18,7 @@
 - 🎓 Sungkonghoe University (2019.03~ )
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
-
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOLokill&layout=compact&title_color=white">
 ### What I Like
 
 - :video_game: game
@@ -26,4 +26,4 @@
 - :walking: walk
 - :gift: shopping
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOLokill&layout=compact&title_color=white">
+
