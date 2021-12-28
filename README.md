@@ -8,23 +8,24 @@
 ### Who Am I
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOLokill&layout=compact&title_color=white">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shuai1593">
+
 <br>
+
 - 🌱 I’m currently learning `Java`, `Spring`, `Network Server`, `Oracle Datebase`
 - 🥇 I majored in Computer Engineering and Software Engineering
 - 🚅 My hometown is Seoul, in Korea
 - :airplane: I lived in China, Qing Dao (2014 ~ 2017)
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shuai1593">
 ### Experience
 
 - 🎓 Sungkonghoe University (2019.03~ )
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
+
 
 ### What I Like
 
 - :video_game: game
 - :book: book
 - :walking: walk
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
 
