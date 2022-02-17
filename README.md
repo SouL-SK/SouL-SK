@@ -21,11 +21,16 @@
 - 🎓 Sungkonghoe University (2019.03~ )
 
 
+<br>
 
 ### What I Like
+
 
 - :video_game: game
 - :book: book
 - :walking: walk
+
+<br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
+
 
