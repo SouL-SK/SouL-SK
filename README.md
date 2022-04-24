@@ -26,9 +26,9 @@
 ### What I Like
 
 
-- :video_game: game
 - :book: book
-- :walking: walk
+- 📝 writing
+- 🏃‍ ♀️walkout
 
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
