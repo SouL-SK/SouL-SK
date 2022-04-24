@@ -28,7 +28,7 @@
 
 - :book: book
 - 📝 writing
-- 🏃‍ ♀️walkout
+- 🏃‍ walkout
 
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
