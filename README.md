@@ -7,7 +7,10 @@
   
 ### Who Am I
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOLokill&layout=compact&title_color=white">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOLokill&layout=compact" />
+</a>
 
 <br>
 
@@ -31,6 +34,6 @@
 - 🏃‍ walkout
 
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SOLokill" height="165">
+
 
 
