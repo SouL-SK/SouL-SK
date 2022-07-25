@@ -20,9 +20,8 @@
 - :airplane: I used to live in Qingdao, China (2014 ~ 2017)
 
 ### Experience
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shuai1593">
+<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=shuai1593">
 - 🎓 Sungkonghoe University (2019.03~ )
-
 
 <br>
 
