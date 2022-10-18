@@ -1,8 +1,9 @@
 # SouL KIM :blush:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSOLokill&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/SOLokill) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shuai1593@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rooroo0080) 
-<img alt="GitHub Page" src ="https://shields.io/badge/GitHub Pages-222222.svg?&style=flat&logo=GitHubPage&logoColor=white">
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rooroo0080)
+<img alt="GitHub Page" src ="https://shields.io/badge/GitHub Pages-222222.svg?&style=flat&logo=GitHubPage&logoColor=white" link="https://solokill.github.io/">
+[![GitHub Pages](https://shields.io/badge/GitHub Pages-222222.svg?&style=flat&logo=GitHubPage&logoColor=white)](https://solokill.github.io/)
 
   
 ## :fire: Who Am I
