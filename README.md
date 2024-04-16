@@ -13,8 +13,9 @@
 
 <br>
 
-- :punch: I’m currently learning<br>
-<img src="https://img.shields.io/badge/java-ffe4c4?style=for-the-badge&logo=Java&logoColor=black"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> <img src="https://img.shields.io/badge/AWS-FFB71B?style=for-the-badge&logo=Amazon AWS&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-191970?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Linux-3e4145?style=for-the-badge&logo=Linux&logoColor=white">
+- :punch: My development stack<br>
+<img src="https://img.shields.io/badge/java-ffe4c4?style=for-the-badge&logo=Java&logoColor=black"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> <img src="https://img.shields.io/badge/AWS-FFB71B?style=for-the-badge&logo=Amazon AWS&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-191970?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Linux-3e4145?style=for-the-badge&logo=Linux&logoColor=white">
+
 
 - :star2: I majored in Computer Engineering and Software Engineering
 - :kr: I'm Korean. live in Seoul
